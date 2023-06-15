@@ -1,6 +1,6 @@
 Hi there 👋
 =
-I'm Diego Gutierrez , I'm 22 years old. I love technology and programming 💙 , developing and improving my skills as a fullstack developer.
+My name is Diego Gutierrez , I'm 22 years old. I love technology and programming 💙, currently developing and improving my skills as a fullstack developer.
 
 Technologies I use
 -
